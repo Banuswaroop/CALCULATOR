@@ -11,7 +11,6 @@ public class calc implements ActionListener {
      JButton[] buttons;
      String operator;
      double num1, num2, result;
-
     public calc() {
         // Initialize the frame, text field, and panel
         f = new JFrame("Calculator");
